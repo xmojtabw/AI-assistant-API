@@ -22,7 +22,7 @@ pipenv shell
 
 ### **3. Run the Flask Server**
 ```sh
-python app.py
+python server.py
 ```
 The API will now be running at:  
 📌 `http://127.0.0.1:5000`
